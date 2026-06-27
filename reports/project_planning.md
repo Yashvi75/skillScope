@@ -46,3 +46,24 @@ Optional Fields
 - employment_type
 - source
 - scraped_at
+
+## Data Source Validation
+
+### Primary Source
+- Wellfound
+
+### Validated Fields
+
+| Field | Available |
+|--------|-----------|
+| Job Title | Yes |
+| Company | Yes |
+| Location | Yes |
+| Experience | Yes |
+| Salary | Yes |
+| Employment Type | Yes |
+| Posted Date | Yes |
+| Job Description | Yes |
+| Skills | Yes |
+| Company Size | No |
+| Remote / Hybrid / Onsite | Yes |
